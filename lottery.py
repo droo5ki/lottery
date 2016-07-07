@@ -3,7 +3,6 @@
 #---------------------------------------------------------
 # File:   lottery.py                                      
 # Author: Andrew Hersh <etch.himself@gmail.com>           
-# Desc:   Get the most recent winning lottery numbers     
 #---------------------------------------------------------
 
 import requests
