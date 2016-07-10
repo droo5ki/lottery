@@ -15,6 +15,7 @@ def get_most_recent_drawing(lottery, date):
 
     Args:
          lottery: a string representing the lottery to check
+         date:    a string representing the date in YYYY-MM-DD format
 
     Returns:
          A string of the winning numbers.
